@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Find Anywhere</string>
+    <string name="trigger_label">Find on screen</string>
+    <string name="tile_label">Find on screen</string>
+    <string name="a11y_description">Lets Find Anywhere read the text on the screen you are viewing so it can search it (like Ctrl+F), highlight matches, scroll to them and copy screen text. Nothing leaves your device.</string>
+</resources>
